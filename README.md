@@ -22,6 +22,7 @@
 - [🏗️ Архитектура](#️-архитектура)
 - [🚀 Быстрый старт](#-быстрый-старт)
 - [📖 Примеры использования](#-примеры-использования)
+- [📚 Подробные примеры кода](EXAMPLES.md)
 - [🔧 API](#-api)
 - [📊 Пример вывода](#-пример-вывода)
 - [🤝 Вклад в проект](#-вклад-в-проект)
@@ -239,6 +240,8 @@ git clone https://github.com/Kwameldx666/DelegateAndEvents.git
 cd DelegateAndEvents
 dotnet run --project DelegateAndEvents
 ```
+
+📚 **[View detailed code examples →](EXAMPLES.md)**
 
 ## 🤝 Contributing
 
